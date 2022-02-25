@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elena
+- 👋 Hi, I’m Elena.
 
 - 🌱 I’m currently a 4th-year Software Engineering student
 
